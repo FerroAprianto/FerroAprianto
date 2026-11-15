@@ -1,7 +1,5 @@
 # Hi, I'm Ferro Aprianto 👋
 
-🎓 Computer Science Student at **BINUS University** (GPA 3.47/4.00)  
-📍 Malang, East Java, Indonesia  
 🚀 Passionate about **Fullstack Development** & **AI/ML Engineering**
 
 ---
@@ -40,13 +38,6 @@
 | [AIRIA](https://github.com/FerroAprianto) | Used car price prediction using ensemble ML | XGBoost, LightGBM, CatBoost, React.js |
 | [Jaya Mandiri](https://github.com/FerroAprianto) | Digital printing e-commerce + AI image detection | Laravel, Go, React.js, TensorFlow |
 | [EcoScan](https://github.com/FerroAprianto) | Waste classification app | VGG16, Flutter |
-
----
-
-## 📊 GitHub Stats
-
-![Ferro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FerroAprianto&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerroAprianto&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
